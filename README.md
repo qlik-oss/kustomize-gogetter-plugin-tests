@@ -1,0 +1,1 @@
+# kustomize-gogetter-plugin-tests
